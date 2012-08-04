@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.7'
+gem 'rails', '3.2.8.rc2'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -41,3 +41,4 @@ end
 
 # To use debugger
 # gem 'debugger'
+gem 'railties', '3.2.8.rc2'
